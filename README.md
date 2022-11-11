@@ -3,7 +3,7 @@
 
 [Official Website](https://pwnoh.io/)
 
-[Official Writeup](https://github.com/cscosu/buckeyectf-2022-public)
+[Official Challenge Source](https://github.com/cscosu/buckeyectf-2022-public)
 
 Team: Gimmie Da Bugs
 
