@@ -13,4 +13,13 @@ Placement:
 
 Total Points: 3523 Points
 
-Peter Sung, Robbie Langer, Tassos Manganaris
+Contents:
+ - buckeyenotes
+ - keyboardwarrior
+ - pocket-monsters
+ - spelunk
+ - sus
+ - twin prime rsa
+
+Author: Peter Sung
+Teammates: Robbie Langer, Tassos Manganaris
