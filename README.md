@@ -15,11 +15,11 @@ Total Points: 3523 Points
 
 Contents:
  - [buckeyenotes](buckeyenotes/solve.md)
- - [keyboardwarrior](keyboardwarrior/solve.md)
+ - [keyboardwarrior](keyboard-warrior/solve.md)
  - [pocket-monsters](pocketmonsters/solve.md)
  - [spelunk](spelunk/solve.md)
  - [sus](sus/solve.md)
- - [twin prime rsa](twin_prime_rsa/solve.md)
+ - [twin prime rsa](twin-prime-rsa/solve.md)
 
 Author: Peter Sung
 
