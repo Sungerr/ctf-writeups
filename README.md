@@ -16,7 +16,7 @@ Total Points: 3523 Points
 Contents:
  - [buckeyenotes](buckeyenotes/solve.md)
  - [keyboardwarrior](keyboard-warrior/solve.md)
- - [pocket-monsters](pocketmonsters/solve.md)
+ - [pocket-monsters](pocket-monsters/solve.md)
  - [spelunk](spelunk/solve.md)
  - [sus](sus/solve.md)
  - [twin prime rsa](twin-prime-rsa/solve.md)
