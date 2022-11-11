@@ -19,7 +19,7 @@ Contents:
  - [pocket-monsters](pocketmonsters/solve.md)
  - [spelunk](spelunk/solve.md)
  - [sus](sus/solve.md)
- - [twin prime rsa](twin prime rsa/solve.md)
+ - [twin prime rsa](twin_prime_rsa/solve.md)
 
 Author: Peter Sung
 
