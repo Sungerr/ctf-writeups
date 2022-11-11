@@ -14,7 +14,7 @@ Placement:
 Total Points: 3523 Points
 
 Contents:
- - buckeyenotes
+ - [buckeyenotes](buckeyenotes/solve.md)
  - keyboardwarrior
  - pocket-monsters
  - spelunk
