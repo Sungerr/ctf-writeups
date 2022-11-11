@@ -17,7 +17,7 @@ Flag format: buckeyectf{}
 
 Starting from the name of the challenge and the description given, it was clear that the pcap file contains keystroke data from a bluetooth keyboard.
 
-First, I ran the pcap file through wireshark to find any abnormalities or points of interest to start digging for the flag. However, since I was not very well versed with wireshark, I was unable to find anything ended up searching around the internet on how to decode the file.
+First, I ran the pcap file through wireshark to find any abnormalities or points of interest to start digging for the flag. However, since I was not very well versed with wireshark, I was unable to find anything and ended up searching around the internet on how to decode the file.
 
 I ended up stumbling across a CTF writeup for a challenge called **[Magic in the Air](https://github.com/spitfirerxf/rgbCTF2020/tree/master/PI1)** for rgbCTF 2020 that gave me the information to decode the pcap file.
 
