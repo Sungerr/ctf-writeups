@@ -14,12 +14,12 @@ Placement:
 Total Points: 3523 Points
 
 Contents:
- - buckeyenotes
- - keyboardwarrior
- - pocket-monsters
- - spelunk
- - sus
- - twin prime rsa
+ - [buckeyenotes](buckeyenotes/solve.md)
+ - [keyboardwarrior](keyboardwarrior/solve.md)
+ - [pocket-monsters](pocketmonsters/solve.md)
+ - [spelunk](spelunk/solve.md)
+ - [sus](sus/solve.md)
+ - [twin prime rsa](twin_prime_rsa/solve.md)
 
 Author: Peter Sung
 
