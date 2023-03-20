@@ -41,7 +41,7 @@ This gives us a the netcat prompt `nc wanna-flag-i.wolvctf.io 1337`
 
 Running it gives us
 
-```sh
+```
 == proof-of-work: disabled ==
 Good job finding the Cube! It's a favorite destination among UofM students!
 Anyways here is the flag:
