@@ -14,7 +14,7 @@ the flag format is cursed{last name 1, last name 2, ..., last name n}
 
 ## Solve
 
-Finding this flag was fairlhy straight forward. Although it's listed under crypto, this challenge was closer to OSINT to find the flag. 
+Finding this flag was fairly straight forward. Although it's listed under crypto, this challenge was closer to OSINT to find the flag. 
 
 Starting off, I downloaded the image and ran it though a reverse image search. However, doing this caused many similar looking research papers to show up, making it hard to filter through them and find the actual paper there if it was even there. 
 
