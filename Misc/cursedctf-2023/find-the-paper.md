@@ -1,4 +1,4 @@
-# spelunk
+# find-the-paper
 
 - Category: Crypto
 - Final Point Value: 130
@@ -7,7 +7,9 @@
 ## Description
 
 here is a screenshot from a paper 
-[paper](cursedctf.png)!
+
+![paper](cursedctf.png)
+
 the flag format is cursed{last name 1, last name 2, ..., last name n}
 
 ## Solve
