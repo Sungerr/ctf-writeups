@@ -12,7 +12,7 @@ Placement:
 
 Total Points: 2229 Points
 
-Pont Contribution: 2219 Points
+Point Contribution: 2219 Points
 
 Contents:
  - [fu](fu/solve.md)
