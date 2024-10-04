@@ -3,8 +3,6 @@
 
 [Official Website](https://pwnoh.io/)
 
-[Official Challenge Source (TBD)]()
-
 Team: 2FA
 
 Placement:
