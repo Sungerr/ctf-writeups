@@ -8,7 +8,7 @@
 Team: Gimmie Da Bugs
 
 Placement: 
- - 2/32 Division
+ - 2/32 OSU Division
  - 22/688 Open Divison
 
 Total Points: 3523 Points
