@@ -23,6 +23,7 @@ Contents:
  - [duck-pics](duck-pics/solve.md)
  - [xnor](xnor/solve.md)
  - [rsa](rsa/solve.md)
+ - [text-adventure](text-adventure/solve.md)
 
 Author: Peter Sung
 
@@ -31,4 +32,3 @@ Teammate: Sunny Huang
 Other notes:
  - Points in terms of OSU division scaling
  - misc donut challenge was brute forced :)
- - rev text-adventure was also brute forced after using an online java decompiler 
